@@ -21,10 +21,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне:
 Я Unity ![](https://img.icons8.com/?size=15&id=39848&format=png&color=000000) разработчик
 
 - я занимаюсь разработкой приложений и игр на
   * android ![](https://img.icons8.com/?size=15&id=P2AnGyiJxMpp&format=png&color=000000)
   * WEB ![](https://img.icons8.com/?size=15&id=uiRbRCzBslGS&format=png&color=000000)
   * PC ![](https://img.icons8.com/?size=15&id=omld7q4iT5H1&format=png&color=000000)
+ 
+  ### :hammer_and_wrench: Языки программирования:
+  ![](https://img.icons8.com/?size=30&id=40669&format=png&color=000000)
+  ![](https://img.icons8.com/?size=30&id=39848&format=png&color=000000)
