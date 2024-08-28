@@ -35,13 +35,19 @@
 ### 🎮 Немного моих игр:
 
 <div id = "Game">
-<img src = "https://img.icons8.com/?size=15&id=MBAIBB8GZKHU&format=png&color=#FF0000"></amg>
+<img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
 <a href = "https://thecodcat.github.io/WEBGiperZ">
     <img src ="https://img.shields.io/badge/ZigZag-red?style=flat">
     </img>
 </a>
+<img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
 <a href = "https://thecodcat.github.io/WEBMeteor/">
     <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat">
+    </img>
+</a>
+<img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></amg>    
+<a href = "https://thecodcat.github.io/WEBKazual/">
+    <img src ="https://img.shields.io/badge/Wall asteroid-yellow?style=flat">
     </img>
 </a>
 </div>
