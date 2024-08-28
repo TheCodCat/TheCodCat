@@ -22,8 +22,7 @@
 </div>
 
 ### :man_technologist: Обо мне:
-Я Unity ![](https://img.icons8.com/?size=15&id=39848&format=png&color=000000) разработчик
-
+опыт 1 год ::
 - я занимаюсь разработкой приложений и игр на
   * android ![](https://img.icons8.com/?size=15&id=P2AnGyiJxMpp&format=png&color=000000)
   * WEB ![](https://img.icons8.com/?size=15&id=uiRbRCzBslGS&format=png&color=000000)
@@ -32,3 +31,22 @@
   ### :hammer_and_wrench: Языки программирования:
   ![](https://img.icons8.com/?size=30&id=40669&format=png&color=000000)
   ![](https://img.icons8.com/?size=30&id=39848&format=png&color=000000)
+
+### 🎮 Немного моих игр:
+
+<div id = "Game">
+<img src = "https://img.icons8.com/?size=15&id=MBAIBB8GZKHU&format=png&color=#FF0000"></amg>
+<a href = "https://thecodcat.github.io/WEBGiperZ">
+    <img src ="https://img.shields.io/badge/ZigZag-red?style=flat">
+    </img>
+</a>
+<a href = "https://thecodcat.github.io/WEBMeteor/">
+    <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat">
+    </img>
+</a>
+</div>
+
+### :fire: Моя статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCodCat&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
