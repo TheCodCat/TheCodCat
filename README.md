@@ -52,6 +52,19 @@
 </a>
 </div>
 
+### Приложения:
+Навигатор по ГАПОУ "СГК"
+<div>
+    <p>git pages</p>
+    <a href = "https://thecodcat.github.io/WEBNav/">
+        <img src = "https://img.shields.io/badge/Navigation-blue?style=flat&logo=github&logoColor=white"></amg>
+    </a>
+    <p>Telegram bot</p>
+    <a href ="https://t.me/SGKNavigation_bot">
+        <img src = "https://img.shields.io/badge/NavigationBot-blue?style=flat&logo=telegram&logoColor=white"></img>
+    </a>
+</div>
+
 ### :fire: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCodCat&theme=dark&background=000000)](https://git.io/streak-stats)
 
