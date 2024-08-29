@@ -22,12 +22,12 @@
 </div>
 
 ### :man_technologist: Обо мне:
-опыт 1 год ::
-- я занимаюсь разработкой приложений и игр на
+Занимаюсь разработкой приложений и игр на
   * android ![](https://img.icons8.com/?size=15&id=P2AnGyiJxMpp&format=png&color=000000)
   * WEB ![](https://img.icons8.com/?size=15&id=uiRbRCzBslGS&format=png&color=000000)
   * PC ![](https://img.icons8.com/?size=15&id=omld7q4iT5H1&format=png&color=000000)
- 
+
+ Опыт работы 1 год.
   ### :hammer_and_wrench: Языки программирования:
   ![](https://img.icons8.com/?size=30&id=40669&format=png&color=000000)
   ![](https://img.icons8.com/?size=30&id=39848&format=png&color=000000)
