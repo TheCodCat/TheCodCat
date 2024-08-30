@@ -88,5 +88,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align = "center">
-    <img src = "https://i.postimg.cc/pTg4L4fH/hospital-hello.gif" align = "center" height = "500"></img>
+    <img src = "https://i.postimg.cc/pTg4L4fH/hospital-hello.gif" align = "center" height = "500" wigth = "500"></img>
 </div>
