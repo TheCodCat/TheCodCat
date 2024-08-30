@@ -35,16 +35,31 @@
 ### 🎮 Немного моих игр:
 
 <div id = "Game">
-<img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
-<a href = "https://thecodcat.github.io/WEBGiperZ">
-    <img src ="https://img.shields.io/badge/ZigZag-red?style=flat">
-    </img>
-</a>
-<img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
-<a href = "https://thecodcat.github.io/WEBMeteor/">
-    <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat">
-    </img>
-</a>
+<h3> ZigZag
+    <img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
+    <a href = "https://thecodcat.github.io/WEBGiperZ">
+        <img src ="https://img.shields.io/badge/ZigZag-red?style=flat"></img>
+    </a>
+</h3>
+<p>
+    ZigZag 3D игра,разработанная под Web,жанр бесконечный раннер, игроку в роли шара предстоит прокатится по бесконечной дороге,которая основанна на процедурной генерации.Разработан для телефонов.  
+    </p>
+    <img src = "https://i.postimg.cc/dQjsfJ1W/Image-Sequence-005-0000.png" height = "300"></img>
+    <img src = "https://i.postimg.cc/7PKv7hby/Image-Sequence-006-0074.png" height = "300"></img>
+    <img src = "https://i.postimg.cc/4xdm4GKh/Image-Sequence-006-0180.png" height = "300"></img>
+</p>
+<h3> Meteors
+     <a href = "https://thecodcat.github.io/WEBMeteors">
+        <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat"></img>
+    </a>
+    <img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
+</h3>
+<p>
+    В игре нужно уклонятся от метеоров черного цвета и собирать желтые метеоры(монеты)
+</p>
+<h3>
+    Wall asteroid
+</h3>
 <img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></amg>    
 <a href = "https://thecodcat.github.io/WEBKazual/">
     <img src ="https://img.shields.io/badge/Wall asteroid-yellow?style=flat">
@@ -69,3 +84,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCodCat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://i.postimg.cc/pTg4L4fH/hospital-hello.gif)
