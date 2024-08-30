@@ -45,7 +45,7 @@
     ZigZag 3D игра,разработанная под Web,жанр бесконечный раннер, игроку в роли шара предстоит прокатится по бесконечной дороге,которая основанна на процедурной генерации.Разработан для телефонов.  
     </p>
     <img src = "https://i.postimg.cc/dQjsfJ1W/Image-Sequence-005-0000.png" height = "200"></img>
-    <img src = "https://i.postimg.cc/7PKv7hby/Image-Sequence-006-0074.png" height = "3200"></img>
+    <img src = "https://i.postimg.cc/7PKv7hby/Image-Sequence-006-0074.png" height = "200"></img>
     <img src = "https://i.postimg.cc/4xdm4GKh/Image-Sequence-006-0180.png" height = "200"></img>
 </p>
 <h3> Meteors
