@@ -42,11 +42,13 @@
     </a>
 </h3>
 <p>
-    ZigZag 3D игра,разработанная под Web,жанр бесконечный раннер, игроку в роли шара предстоит прокатится по бесконечной дороге,которая основанна на процедурной генерации.Разработан для телефонов.  
+    ZigZag 3D игра,разработанная под Web,жанр гиперказуалка, игроку в роли шара предстоит прокатится по бесконечной дороге,которая основанна на процедурной генерации.Разработан для телефонов.  
     </p>
-    <img src = "https://i.postimg.cc/dQjsfJ1W/Image-Sequence-005-0000.png" height = "200"></img>
-    <img src = "https://i.postimg.cc/7PKv7hby/Image-Sequence-006-0074.png" height = "200"></img>
-    <img src = "https://i.postimg.cc/4xdm4GKh/Image-Sequence-006-0180.png" height = "200"></img>
+    <div align = "center">
+    <img src = "https://i.postimg.cc/dQjsfJ1W/Image-Sequence-005-0000.png" height = "300"></img>
+    <img src = "https://i.postimg.cc/7PKv7hby/Image-Sequence-006-0074.png" height = "300"></img>
+    <img src = "https://i.postimg.cc/4xdm4GKh/Image-Sequence-006-0180.png" height = "300"></img>
+    </div>
 </p>
 <h3> Meteors
      <a href = "https://thecodcat.github.io/WEBMeteors">
@@ -55,7 +57,7 @@
     <img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
 </h3>
 <p>
-    В игре нужно уклонятся от метеоров черного цвета и собирать желтые метеоры(монеты)
+    В игре нужно уклонятся от метеоров черного цвета и собирать желтые метеоры(монеты). Жанр гиперказуалка.
 </p>
 <h3>
     Wall asteroid
@@ -85,4 +87,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://i.postimg.cc/pTg4L4fH/hospital-hello.gif)
+<div align = "center">
+    <img src = "https://i.postimg.cc/pTg4L4fH/hospital-hello.gif" align = "center" height = "500"></img>
+</div>
