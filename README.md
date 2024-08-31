@@ -1,25 +1,11 @@
 # Лавка Unity разработчика "Кодовый кот"
 
-<div ="header" align = "center">
-    <img src = "https://media.giphy.com/media/XdV0ptvZx1N6y9Wu6a/giphy.gif?cid=790b7611kxga0ree44gwymaogd2bk7xkqnfr1elt83sxuifb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = "200">
-    </amg>
-</div>
-
 <div id = "header" align ="center">
-     <a href = "https://t.me/TheCodeCat">
-        <img src = "https://img.shields.io/badge/telegram-white?logo=telegram&logoColor=blue&logoSize=30"></amg>
-    </a>
-    
-  <img src = "https://komarev.com/ghpvc/?username=TheCodCat&style=flat-square"></amg>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    <div align="center">
+        <img src ="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5b57a13bdebdf22f13fdb5b64d657a304b2dc95b89bfdd4d3714bb3d951b3266.gif" height = "200"></img>
+    </div>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### :man_technologist: Обо мне:
 Занимаюсь разработкой приложений и игр на
@@ -27,52 +13,61 @@
   * WEB ![](https://img.icons8.com/?size=15&id=uiRbRCzBslGS&format=png&color=000000)
   * PC ![](https://img.icons8.com/?size=15&id=omld7q4iT5H1&format=png&color=000000)
 
+
  Опыт работы 1 год.
   ### :hammer_and_wrench: Языки программирования:
   ![](https://img.icons8.com/?size=30&id=40669&format=png&color=000000)
-  ![](https://img.icons8.com/?size=30&id=39848&format=png&color=000000)
+  ![](https://img.icons8.com/?size=30&id=VLjW6zFrsq2F&format=png&color=000000)
 
 ### 🎮 Немного моих игр:
 
 <div id = "Game">
-<h3> ZigZag
-    <img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
-    <a href = "https://thecodcat.github.io/WEBGiperZ/">
-        <img src ="https://img.shields.io/badge/ZigZag-red?style=flat"></img>
-    </a>
-</h3>
-<p>
-    ZigZag 3D игра,разработанная под Web,жанр гиперказуалка, игроку в роли шара предстоит прокатится по бесконечной дороге,которая основанна на процедурной генерации.Разработан для телефонов.
-    Управление: касание меняет направление движения мяча.
-</p>
-</p>
-<h3> Meteors
-     <a href = "https://thecodcat.github.io/WEBMeteor/">
-        <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat"></img>
-    </a>
-    <img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
-</h3>
-<p>
-    В игре нужно уклонятся от метеоров черного цвета и собирать желтые метеоры(монеты). Жанр гиперказуалка. Управление: касание меняет направление движения,движение из стороны в сторону.
-</p>
-<h3>
-    Wall asteroid
-</h3>
-<img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></amg>    
-<a href = "https://thecodcat.github.io/WEBKazual/">
-    <img src ="https://img.shields.io/badge/Wall asteroid-yellow?style=flat">
-    </img>
-</a>
+    <h3> ZigZag
+        <img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
+        <a href = "https://thecodcat.github.io/WEBGiperZ/">
+            <img src ="https://img.shields.io/badge/ZigZag-red?style=flat"></img>
+        </a>
+    </h3>
+    <p>
+        ZigZag 3D игра,разработанная под Web,жанр гиперказуалка, игроку в роли шара предстоит прокатится по бесконечной дороге,которая основанна на процедурной генерации.Разработан для телефонов.
+        Управление: касание меняет направление движения мяча.
+    </p>
+    <h3> Meteors
+         <a href = "https://thecodcat.github.io/WEBMeteor/">
+            <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat"></img>
+        </a>
+        <img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
+    </h3>
+    <p>
+        В игре нужно уклонятся от метеоров черного цвета и собирать желтые метеоры(монеты). Жанр гиперказуалка. Управление: касание меняет направление движения,движение из стороны в сторону.
+    </p>
+    <h3>
+        Wall asteroid
+        <a href = "https://thecodcat.github.io/WEBKazual/">
+            <img src ="https://img.shields.io/badge/Wall asteroid-yellow?style=flat"></img>
+        </a>
+        <img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></img>
+    </h3>
 </div>
 
-### Приложения:
-Навигатор по ГАПОУ "СГК"
 <div>
-    <p>git pages</p>
+    <h3>Приложения:</h3>
+    <p>
+        Самое интересное
+    </p>
+    <img src ="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d7106f2cf63514cc10daaba79e2d4dbaed78073c15e8e8de6661eae90b0500a4.gif" height = "200"></img>
+    <p>
+        Навигатор по ГАПОУ "СГК"
+    </p>
+    <p>
+        git pages
+    </p>
     <a href = "https://thecodcat.github.io/WEBNav/">
         <img src = "https://img.shields.io/badge/Navigation-blue?style=flat&logo=github&logoColor=white"></amg>
     </a>
-    <p>Telegram bot</p>
+    <p>
+        Telegram bot
+    </p>
     <a href ="https://t.me/SGKNavigation_bot">
         <img src = "https://img.shields.io/badge/NavigationBot-blue?style=flat&logo=telegram&logoColor=white"></img>
     </a>
@@ -83,6 +78,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align = "center">
-    <img src = "https://i.postimg.cc/pTg4L4fH/hospital-hello.gif" align = "center" height = "400" wigth = "400"></img>
-</div>
+<footer>
+    <div align = "center">
+    <h2>
+        <img src = "https://img.icons8.com/?size=100&id=UwOQXCbCjfbM&format=png&color=000000" heigth = "25"></img>
+    </h2>
+    <img src = "https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/e44e210f8f8e214219d096cb65944ee247f69fde9db78d79af409dcd49ff910f.gif"></img>
+    </div>
+    </footer>
