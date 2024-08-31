@@ -33,21 +33,24 @@
         Управление: касание меняет направление движения мяча.
     </p>
     <h3> Meteors
+        <img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
          <a href = "https://thecodcat.github.io/WEBMeteor/">
             <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat"></img>
         </a>
-        <img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
     </h3>
     <p>
         В игре нужно уклонятся от метеоров черного цвета и собирать желтые метеоры(монеты). Жанр гиперказуалка. Управление: касание меняет направление движения,движение из стороны в сторону.
     </p>
     <h3>
         Wall asteroid
+        <img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></img>
         <a href = "https://thecodcat.github.io/WEBKazual/">
             <img src ="https://img.shields.io/badge/Wall asteroid-yellow?style=flat"></img>
         </a>
-        <img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></img>
     </h3>
+    <p>
+        В игре игрок в виде кометы перемещается между двумя монетами, которые перемещяюся после их подбора. Задачи: набрать больше очков, уклонение от крутящихся платформ.
+    </p>
 </div>
 
 <div>
@@ -80,9 +83,8 @@
 
 <footer>
     <div align = "center">
-    <h2>
-        <img src = "https://img.icons8.com/?size=100&id=UwOQXCbCjfbM&format=png&color=000000" heigth = "25"></img>
-    </h2>
-    <img src = "https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/e44e210f8f8e214219d096cb65944ee247f69fde9db78d79af409dcd49ff910f.gif"></img>
+        <h2>
+            <img src = "https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/e44e210f8f8e214219d096cb65944ee247f69fde9db78d79af409dcd49ff910f.gif"></img>
+        </h2>
     </div>
-    </footer>
+</footer>
