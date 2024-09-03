@@ -8,7 +8,7 @@
 
 
 ### :man_technologist: Обо мне:
-Занимаюсь разработкой приложений и игр на
+Занимаюсь разработкой приложений и игр на кросспратформенном движке Unity, приложения под разные платформы:
   * android ![](https://img.icons8.com/?size=15&id=P2AnGyiJxMpp&format=png&color=000000)
   * WEB ![](https://img.icons8.com/?size=15&id=uiRbRCzBslGS&format=png&color=000000)
   * PC ![](https://img.icons8.com/?size=15&id=omld7q4iT5H1&format=png&color=000000)
