@@ -14,7 +14,7 @@
   * PC ![](https://img.icons8.com/?size=15&id=omld7q4iT5H1&format=png&color=000000)
 
 
- Опыт работы 1 год.
+ Опыт работы 2-3 месяца.
   ### :hammer_and_wrench: Языки программирования:
   ![](https://img.icons8.com/?size=30&id=40669&format=png&color=000000)
   ![](https://img.icons8.com/?size=30&id=VLjW6zFrsq2F&format=png&color=000000)
@@ -45,7 +45,7 @@
         Wall asteroid
         <img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></img>
         <a href = "https://thecodcat.github.io/WEBKazual/">
-            <img src ="https://img.shields.io/badge/Wall asteroid-yellow?style=flat"></img>
+            <img src ="https://img.shields.io/badge/Wall asteroid-black?style=flat"></img>
         </a>
     </h3>
     <p>
