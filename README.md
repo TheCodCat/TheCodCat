@@ -53,7 +53,7 @@
     </p>
   <h3>
         CatBlock
-        <img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></img>
+        <img src = "https://img.icons8.com/?size=15&id=tgLepcPbp6mP&format=png&color=000000"></img>
         <a href = "https://github.com/TheCodCat/ArcanoidZOVSKG/releases/tag/Final">
             <img src ="https://img.shields.io/badge/CatBlock-pink?style=flat"></img>
         </a>
