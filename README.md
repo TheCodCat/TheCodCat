@@ -61,6 +61,16 @@
     <p>
         Описание на странице репозиторя
     </p>
+        <h3> ClikerKulagin
+        <img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
+        <a href = "https://thecodcat.github.io/WEBK/">
+            <img src ="https://img.shields.io/badge/Cliker Kulagin-cyan?style=flat"></img>
+        </a>
+    </h3>
+    <p>
+       Кликер про лучшего препода.<br>
+        Не работает на ПК
+    </p>
 </div>
 
 <div>
