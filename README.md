@@ -94,6 +94,12 @@
     <a href ="https://t.me/SGKNavigation_bot">
         <img src = "https://img.shields.io/badge/NavigationBot-blue?style=flat&logo=telegram&logoColor=white"></img>
     </a>
+        <p>
+        Android apk
+    </p>
+    <a href ="https://github.com/TheCodCat/SgkNavigaiton/releases/download/V1/sgkNavigation.apk">
+        <img src = "https://img.shields.io/badge/NavigationApk-blue?style=flat&logo=telegram&logoColor=white"></img>
+    </a>
 </div>
 
 ### :fire: Моя статистика:
