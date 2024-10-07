@@ -14,7 +14,7 @@
   * PC ![](https://img.icons8.com/?size=15&id=omld7q4iT5H1&format=png&color=000000)
 
 
- Опыт работы 2-3 месяца.
+ Опыт работы 3-5 месяца.
   ### :hammer_and_wrench: Языки программирования:
   ![](https://img.icons8.com/?size=30&id=40669&format=png&color=000000)
   ![](https://img.icons8.com/?size=30&id=VLjW6zFrsq2F&format=png&color=000000)
