@@ -97,7 +97,7 @@
         <p>
         Android apk <i>Последняя версия V1.2</i>
     </p>
-    <a href ="https://github.com/TheCodCat/SgkNavigaiton/releases/download/V1.2/sgkNavigation.apk">
+    <a href ="https://github.com/TheCodCat/SgkNavigaiton/releases/download/V3.0/sgkNavigation.apk">
         <img src = "https://img.shields.io/badge/NavigationApk-blue?style=flat&logo=telegram&logoColor=white"></img>
     </a>
 </div>
