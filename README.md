@@ -95,7 +95,7 @@
         <img src = "https://img.shields.io/badge/NavigationBot-blue?style=flat&logo=telegram&logoColor=white"></img>
     </a>
         <p>
-        Android apk <i>Последняя версия V3.2</i>
+        Android apk <i>Последняя версия V3.2.1</i>
     </p>
     <a href ="https://github.com/TheCodCat/SgkNavigaiton/releases/download/V3.2.1/GidSGK_V3.2.1.apk">
         <img src = "https://img.shields.io/badge/NavigationApk-blue?style=flat&logo=telegram&logoColor=white"></img>
