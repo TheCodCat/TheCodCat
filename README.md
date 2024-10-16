@@ -16,7 +16,7 @@
 
  Опыт работы 3-5 месяца.
   ### :hammer_and_wrench: Языки программирования:
-  ![](https://img.icons8.com/?size=30&id=40669&format=png&color=000000)
+  ![](https://img.icons8.com/?size=30&id=55251&format=png&color=000000)
   ![](https://img.icons8.com/?size=30&id=VLjW6zFrsq2F&format=png&color=000000)
 
 ### 🎮 Немного моих игр:
