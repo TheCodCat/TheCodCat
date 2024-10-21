@@ -22,51 +22,51 @@
 ### 🎮 Немного моих игр:
 
 <div id = "Game">
-    <h3> ZigZag
+    <h2> ZigZag
         <img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
         <a href = "https://thecodcat.github.io/WEBGiperZ/">
             <img src ="https://img.shields.io/badge/ZigZag-red?style=flat"></img>
         </a>
-    </h3>
+    </h2>
     <p>
         ZigZag 3D игра,разработанная под Web,жанр гиперказуалка, игроку в роли шара предстоит прокатится по бесконечной дороге,которая основанна на процедурной генерации.Разработан для телефонов.
         Управление: касание меняет направление движения мяча.
     </p>
-    <h3> Meteors
+    <h2> Meteors
         <img src = "https://img.icons8.com/?size=15&id=11894&format=png&color=000000"></amg>
          <a href = "https://thecodcat.github.io/WEBMeteor/">
             <img src ="https://img.shields.io/badge/Meteors-yellow?style=flat"></img>
         </a>
-    </h3>
+    </h2>
     <p>
         В игре нужно уклонятся от метеоров черного цвета и собирать желтые метеоры(монеты). Жанр гиперказуалка. Управление: касание меняет направление движения,движение из стороны в сторону.
     </p>
-    <h3>
+    <h2>
         Wall asteroid
         <img src = "https://img.icons8.com/?size=15&id=MP4mk-h7lyZW&format=png&color=000000"></img>
         <a href = "https://thecodcat.github.io/WEBKazual/">
             <img src ="https://img.shields.io/badge/Wall asteroid-black?style=flat"></img>
         </a>
-    </h3>
+    </h2>
     <p>
         В игре игрок в виде кометы перемещается между двумя монетами, которые перемещяюся после их подбора. Задачи: набрать больше очков, уклонение от крутящихся платформ.
     </p>
-  <h3>
+  <h2>
         CatBlock
         <img src = "https://img.icons8.com/?size=15&id=tgLepcPbp6mP&format=png&color=000000"></img>
         <a href = "https://github.com/TheCodCat/ArcanoidZOVSKG/releases/">
             <img src ="https://img.shields.io/badge/CatBlock-pink?style=flat"></img>
         </a>
-    </h3>
+    </h2>
     <p>
         Описание на странице репозиторя
     </p>
-        <h3> ClikerKulagin
+        <h2> ClikerKulagin
         <img src = "https://img.icons8.com/?size=15&id=FgyP7vkcljMa&format=png&color=000000"></amg>
         <a href = "https://thecodcat.github.io/WEBK/">
             <img src ="https://img.shields.io/badge/Cliker Kulagin-cyan?style=flat"></img>
         </a>
-    </h3>
+    </h2>
     <p>
        Кликер про лучшего препода.<br>
         Не работает на ПК
@@ -74,14 +74,14 @@
 </div>
 
 <div>
-    <h3>Приложения:</h3>
+    <h2>Приложения:</h2>
     <p>
         Самое интересное
     </p>
     <img src ="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d7106f2cf63514cc10daaba79e2d4dbaed78073c15e8e8de6661eae90b0500a4.gif" height = "200"></img>
-    <p>
+    <h2>
         Навигатор по ГАПОУ "СГК"
-    </p>
+    </h2>
     <p>
         git pages
     </p>
